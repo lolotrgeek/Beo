@@ -1,0 +1,32 @@
+{
+  "name": "beo",
+  "version": "0.0.1",
+  "description": "Beowulf AI",
+  "main": "beowulf.js",
+  "dependencies": {
+    "clusters": "0.0.4",
+    "kmeans-node": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolotrgeek/Beowulf-AI.git"
+  },
+  "keywords": [
+    "beo",
+    "ai",
+    "cluster",
+    "node",
+    "gun",
+    "tensorflow"
+  ],
+  "author": "lolotrgeek",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lolotrgeek/Beowulf-AI/issues"
+  },
+  "homepage": "https://github.com/lolotrgeek/Beowulf-AI#readme"
+}

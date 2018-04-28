@@ -1,0 +1,19 @@
+{
+    "remotePath": "/home/pi/beo",
+    "host": "192.168.1.102",
+    "username": "pi",
+    "password": "doyoubelieveinlifeafterlove",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}

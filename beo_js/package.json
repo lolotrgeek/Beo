@@ -1,0 +1,23 @@
+{
+  "name": "beo",
+  "version": "1.0.0",
+  "description": "Beowulf AI",
+  "main": "awake.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "Beo",
+    "Beowulf",
+    "AI",
+    "Cluster"
+    "Node"
+  ],
+  "author": "lolotrgeek",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "gun": "^0.7.2",
+    "node-machine-id": "^1.1.4",
+    "onoff": "^1.1.2"
+  }
+}
